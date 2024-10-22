@@ -1,0 +1,46 @@
+header{
+    background-color: rgb(124, 173, 236);
+    border: solid black;
+    text-align: center;
+}
+main{
+    background-color:rgb(124, 173, 236);
+    border: solid black;
+    text-align: center;
+}
+#eu{
+    height: 250px;
+    width: 200px;
+}
+body{
+    background-image: url(img/fundoo.png);
+}
+#jogo{
+    height: 200px;
+    width: 400px; 
+}
+#restaurante{
+    height: 200px;
+    width: 400px; 
+}
+#loja{
+    height: 200px;
+    width: 400px; 
+}
+#jogo2{
+    height: 300px;
+    width: 600px; 
+}
+#restaurante2{
+    height: 300px;
+    width: 600px; 
+}
+#loja2{
+    height: 300px;
+    width: 600px; 
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

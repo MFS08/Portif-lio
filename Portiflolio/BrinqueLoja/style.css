@@ -1,0 +1,62 @@
+header{
+    background-color: rgb(142, 184, 248);
+    border: solid black;
+    border-width: 3px;
+    text-align: center;
+}
+nav{
+    background-color: rgb(142, 184, 248);
+    border: solid black;
+    border-width: 3px;
+    text-align: center;
+    color: black;
+}
+body{
+    background-image: url(img/tdf.jpg);
+}
+article{
+    background-color: rgb(142, 184, 248);
+    border: solid black;
+    border-width: 3px;
+    text-align: center;
+    color: black;
+}
+footer{
+    background-color: rgb(142, 184, 248);
+    border: solid black;
+    border-width: 3px;
+    color: black;
+}
+table{
+    background-color: rgb(142, 184, 248);
+    border: solid black;
+    border-width: 3px;
+    color: black;
+}
+img{
+width: 100px;
+height: 100px;
+}
+h2{
+    background-color: rgb(142, 184, 248);
+    border: solid black;
+    border-width: 3px;
+    color: black;
+}
+main{
+    background-color: rgb(142, 184, 248);
+    border: solid black;
+    border-width: 3px;
+    color: black;
+}
+#jajaja{
+    width: 500px;
+    height: 300px;
+}
+
+div{
+    background-color: rgb(142, 184, 248);
+    border: solid black;
+    border-width: 3px;
+    color: black;
+}
